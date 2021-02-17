@@ -1,1 +1,1 @@
-# guitar-muisc-theory-helper
+# guitar-music-theory-helper
